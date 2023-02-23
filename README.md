@@ -1,7 +1,7 @@
 # M347
-Installiation guide:
+Installiation und ausführung:
 
-- git clone https://github.com/Doroudchi/M347
+- git clone https://github.com/Ben1727/M347
 
 - cd M347
 
